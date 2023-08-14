@@ -12,9 +12,11 @@ Esta página tem como objetivo de ilustrar e representar de forma simplificada a
 Essas músicas retratam temas como determinação, esforço, nunca desistir em tempos díficeis e ignorar conflitos e brigas desnecessárias
 
 ##Estado do Projeto:
+
 Em andamento
 
 ##Autores:
+
 João Lucas e Amanda Meneghin, 2ºA Jogos Digitais
 
 
