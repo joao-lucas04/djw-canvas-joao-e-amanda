@@ -1,2 +1,1 @@
-# djw-canvas-joao-e-amanda
-aula de djw
+# Atividade de DJW - Cena no Canvas
