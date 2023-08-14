@@ -1,7 +1,7 @@
 # Atividade de DJW 
 ## Cena no Canvas
 
-Esta página tem o objetivo de ilustrar e representar as músicas:
+Esta página tem como objetivo de ilustrar e representar de forma simplificada as músicas:
 
 - [Eu Não Vou Mais Perder Tempo Tendo Medo de Não Ser Bom o Suficiente Pra Você - Dance Of Days](https://www.youtube.com/watch?v=wD1xSPx3U-c)
 
@@ -9,5 +9,6 @@ Esta página tem o objetivo de ilustrar e representar as músicas:
 
 - [Legião Urbana - Tempo Perdido](https://www.youtube.com/watch?v=2hr7Uqu6G80)
 
+Essas músicas retratam temas como determinação, esforço, nunca desistir em tempos díficeis e ignorar conflitos e brigas desnecessárias   
 
 
