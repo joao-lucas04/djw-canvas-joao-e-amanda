@@ -1,5 +1,5 @@
 # Atividade de DJW 
-## Cena no Canvas
+## Descrição do Projeto:
 
 Esta página tem como objetivo de ilustrar e representar de forma simplificada as músicas:
 
@@ -11,7 +11,10 @@ Esta página tem como objetivo de ilustrar e representar de forma simplificada a
 
 Essas músicas retratam temas como determinação, esforço, nunca desistir em tempos díficeis e ignorar conflitos e brigas desnecessárias
 
-## Estado do Projeto
+## Elementos Usados:
+Html, Css, JavaScript
+
+## Estado do Projeto:
 Em andamento
 
 ## Autores
