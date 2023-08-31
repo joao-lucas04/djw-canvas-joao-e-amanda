@@ -14,12 +14,12 @@ Essas músicas retratam temas como determinação, esforço, nunca desistir em t
 O desenho feito na página representa todo este assunto tratado e passa essa breve mensagem para quem o observa.
 
 ## Elementos Usados:
-Html, Css, JavaScript
+HTML, CSS, JavaScript
 
 ## Estado do Projeto:
 Em andamento
 
 ## Autores
-João Lucas e Amanda Meneghin, 2ºA Jogos Digitais
+João Lucas dos Anjos e Amanda Meneghin, 2ºA Jogos Digitais.
 
 
