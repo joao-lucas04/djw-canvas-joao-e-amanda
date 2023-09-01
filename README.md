@@ -10,7 +10,8 @@ Este é um projeto de desenho no canvas, que tem como objetivo, representar de f
 - [Dance Of Days - Eu Não Vou Mais Perder Tempo Tendo Medo De Não Ser Bom O Suficiente Pra Você](https://www.youtube.com/watch?v=wD1xSPx3U-c)
 
 Elas retratam temas como determinação, coragem, reforçam sempre como não devemos perder nosso tempo
-com coisas fúteis ou desnecessárias e sempre evitar conflitos sem motivo. O desenho retrata esses temas de forma simplificada e tenta fazer o usuário refletir sobre estes temas ao observar o desenho.
+com coisas fúteis ou desnecessárias e sempre evitar conflitos sem motivo. 
+ O desenho retrata esses temas de forma simplificada e tenta fazer o usuário refletir sobre estes temas ao observar o desenho.
 
 ## Estado do Projeto:
 Concluído
