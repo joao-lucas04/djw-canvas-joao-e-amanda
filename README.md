@@ -4,7 +4,7 @@
 João Lucas e Amanda Meneghin, 2° Jogos Digitais
 
 ## Descrição:
-Este é um projeto de desenho no canvas que tem como objetivo, representar de forma ilustrativa as músicas:
+Este é um projeto de desenho no canvas, que tem como objetivo, representar de forma ilustrativa as músicas:
 - [Charlie Brown Jr. - Só os Loucos Sabem](https://www.youtube.com/watch?v=JRJj4z-prvM)
 - [Legião Urbana - Tempo Perdido](https://www.youtube.com/watch?v=2hr7Uqu6G80)
 - [Dance Of Days - Eu Não Vou Mais Perder Tempo Tendo Medo De Não Ser Bom O Suficiente Pra Você](https://www.youtube.com/watch?v=wD1xSPx3U-c)
