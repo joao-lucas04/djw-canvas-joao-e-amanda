@@ -17,7 +17,7 @@ O desenho retrata esses temas de forma simplificada e tenta fazer o usuário ref
 ## Estado do Projeto:
 Concluído
 
-##Elementos Usados:
+## Elementos Usados:
 HTML, CSS, JavaScript
 
 
