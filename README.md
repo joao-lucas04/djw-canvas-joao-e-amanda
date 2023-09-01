@@ -14,7 +14,8 @@ Este é um projeto de desenho no canvas que, tem como objetivo, representar de f
 
 Elas retratam temas como determinação, coragem, reforçam sempre como não devemos perder nosso tempo
 com coisas fúteis ou desnecessárias e sempre evitar conflitos sem motivo.
-O desenho retrata esses temas de forma simplificada e tenat passar essas mensagens para o usuário que o observa. 
+
+O desenho retrata esses temas de forma simplificada e tenta fazer o usuário refletir sobre estes temas ao observar ao desenho. 
 
 
 
